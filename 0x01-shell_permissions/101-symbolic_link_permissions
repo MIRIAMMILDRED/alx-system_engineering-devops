@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent:staff /path/to/_hello
+chown -h Vincent safe_hello
