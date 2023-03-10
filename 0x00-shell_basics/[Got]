@@ -1,0 +1,23 @@
+own: missing operand after ‘vincent:staff.’
+Try 'chown --help' for more information.
+
+(87 chars long)
+
+[Expected]
+vincent staff
+vincent staff
+vincent staff
+vincent staff
+
+(56 chars longown: missing operand after ‘vincent:staff.’
+Try 'chown --help' for more information.
+
+(87 chars long)
+
+[Expected]
+vincent staff
+vincent staff
+vincent staff
+vincent staff
+
+(56 chars long)
